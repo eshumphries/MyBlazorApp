@@ -1,0 +1,15 @@
+﻿@page "/dynamic-text"
+
+<h3>Dynamic Text Example</h3>
+<p>@displayText</p>
+
+<button @onclick="ChangeText">Change Text</button>
+
+@code {
+    private string displayText = "Initial text";
+
+    private void ChangeText()
+    {
+        displayText = "New text!";
+    }
+}
