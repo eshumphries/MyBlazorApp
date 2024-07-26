@@ -26,6 +26,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/eshum/Documents/Visual Studio Code/Blazor/MyBlazorApp/Components/DynamicText.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEeW5hbWljVGV4dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/eshum/Documents/Visual Studio Code/Blazor/MyBlazorApp/Components/Pages/DynamicText.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEeW5hbWljVGV4dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
